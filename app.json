@@ -1,8 +1,8 @@
 
 
 {
-  "name":"BWM-XMD",
-  "description":"Best whatsapp bot developed by Ibrahim adams",
+  "name":"Elon_TBOI",
+  "description":"Best whatsapp bot developed by ELON_TBOI",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/h2ydge.jpg",
   "repository":"https://github.com/ekitale/maths-project",
@@ -131,7 +131,7 @@
     
     "desc": "Owner name",
     "required": false,
-    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
+    "value": "TBOI 4 TAYO"
   },
     "SESSION_ID":{
     "description":"put your session ID , the code you received from from ibrahim adams site",   
