@@ -42,7 +42,7 @@
 "AUTO_REACT_STATUS":
     {
       "description":"Enter yes for your bot to auto react status",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
 "ANTICALL":
@@ -91,7 +91,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BWM-XMD",
+      "value":"꧁𝑬𝒍𝒐𝒏 𝑴𝒖𝒔𝒌 𝑻𝑽꧂",
       "required":false
 
     } ,
@@ -105,7 +105,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
@@ -122,7 +122,7 @@
     {
       
     "description":"Enter here the number that is hosting the bot Eg, 254xxxxxxx",   
-      "value":"",
+      "value":",2349023611268",
     "required":true
       
     },
@@ -157,12 +157,12 @@
   },
   "ANTIDELETE2" : {
     "description": "if you want to enable anti delete in conversation put yes else put no",
-    "value": "no",
+    "value": "yes",
         "required": false
  },
   "ANTIDELETE1" : {
     "description": "if you want to enable anti delete messages to be sent to your inbox put yes else put no",
-    "value": "no",
+    "value": "yes",
         "required": false
   }
   },
